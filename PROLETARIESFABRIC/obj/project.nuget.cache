@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "W6R5Sa31AnjBbxa0foFFQ0NFRGm8Oy6FPB5oeKv//7IlH9f0cBAGbRftabYCiohUeQstMgB33UOBcp3WD9x0YA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\L\\RiderProjects\\PROLETARIESFABRIC\\PROLETARIESFABRIC\\PROLETARIESFABRIC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\L\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\L\\.nuget\\packages\\selenium.webdriver\\4.0.0-beta1\\selenium.webdriver.4.0.0-beta1.nupkg.sha512"
+  ],
+  "logs": []
+}
